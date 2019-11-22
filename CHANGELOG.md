@@ -1,6 +1,94 @@
-## Spectre.css Changelog
+#### Spectre.css Changelog
 
-### [v0.4.7](https://github.com/picturepan2/spectre/releases/tag/v0.4.7)
+##### v0.5.8 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.8)
+
+- IMPORTANT: Moving 
+- Add Auto width column #541
+- Add more Menu badge support #545
+- Improve 360-Degree Viewer
+- Fix gulp issue #547
+- Fix the errors in the Docs #538
+
+##### v0.5.7 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.7)
+
+- Add pure CSS 360-Degree Viewer
+- Improve Docs SEO
+- Change Carousels image number to variable #428
+- Fix Form textarea height issue
+
+##### v0.5.6 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.6)
+
+- Add Docs Search #509 #291
+- Add Copy icon
+- Add Hero layout #380
+- Add multiline Tooltips #500
+- Replace transition: all; #526
+- Fix #511 issue
+- Fix sidebar background height for short docs pages
+
+##### v0.5.5 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.5)
+
+- IMPORTANT: New Docs
+- Add Changelog to What's New section
+- Fix chip vertical scrollbar #521
+- Fix circle -> s-circle #489
+- Fix code font-family issue for asian languages #476
+
+##### v0.5.4 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.4)
+
+- IMPORTANT: Change naming of position utilities to avoid conflicts
+- Update dark color variable
+- Fix sidebar hash link bug #482
+- Fix browser support typo #469
+- Fix code typo #460
+- Fix GitHub button z-index bug #458
+- Fix Bar background color issue by adding !important to color utilities
+- Fix chip bug when content is too long #506
+- Fix multiple select height bug #508
+
+##### v0.5.3 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.3)
+
+- Add dark text color to utilities
+- Add error state to the indeterminate checkbox
+- Add inline forms
+- Add more code examples
+- Fix errors in the Docs
+
+##### v0.5.2 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.2)
+
+- IMPORTANT:  Move Docs to Pug templates
+- Add more Docs examples
+- Add visited link style
+- Add 100% modal height class #391
+- Fix off-canvas-overlay bug #392
+- Fix margin and padding values #431
+- Fix Accordion example #438
+- Fix a bug of input addons width on mobile devices #449
+- Separate Simplified Chinese (zh/zh-Hans) from Traditional (zh-Hant)
+
+##### v0.5.1 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.1)
+
+IMPORTANT: Move Autocomplete to the Experimentals
+- Add form checkbox, radio and switch support to Menus
+- Add responsive horizontal form support #375
+- Add Favicons in the docs #398
+- Fix Off-canvas z-index problem #361
+- Fix icons disappearing on group classes on focus
+- Fix Deprecation Warning #396 #356
+- Initial commit of RTL support (not finished)
+
+##### v0.5.0 [#](https://github.com/picturepan2/spectre/releases/tag/v0.5.0)
+
+- IMPORTANT: Restore /dist folder
+- Add Grid nesting example #353
+- Add Form control sizes support
+- Update Off-canvas default behavior and new option available #347
+- Split Mixins
+- Fix Navbar last-child align right bug #346
+- Fix modal doc typo
+- Fix docs examples #348
+
+##### v0.4.7 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.7)
 
 - Add new button colors (success and error) #227 #241 #342
 - Add overflow-scrolling: touch; CSS for better scrolling
@@ -8,7 +96,7 @@
 - Update the Modal example code
 - Fix form horizontal layout spacing
 
-### [v0.4.6](https://github.com/picturepan2/spectre/releases/tag/v0.4.6)
+##### v0.4.6 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.6)
 
 - Add new Sliders example #328
 - Add Table with horizontal scroll support #333
@@ -18,18 +106,18 @@
 - Fix breadcrumb-item extra spacing #337
 - Fix comparison slider image responsive bug #338
 
-### [v0.4.5](https://github.com/picturepan2/spectre/releases/tag/v0.4.5)
+##### v0.4.5 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.5)
 
 - Rewrite Off-canvas component
 - Add `active` support to the Off-canvas #308
 - Update the Docs pages
 
-### [v0.4.4](https://github.com/picturepan2/spectre/releases/tag/v0.4.4)
+##### v0.4.4 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.4)
 
 - IMPORTANT: Increase default font sizes to 16px #271
 - Add version number to CSS #288 #289
 
-### [v0.4.3](https://github.com/picturepan2/spectre/releases/tag/v0.4.3)
+##### v0.4.3 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.3)
 
 - Add Icon Sizes #284
 - Add Large Modals #293
@@ -41,13 +129,13 @@
 - Improve gulpfile and package
 - Add Importing Sass Docs
 
-### [v0.4.2](https://github.com/picturepan2/spectre/releases/tag/v0.4.2)
+##### v0.4.2 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.2)
 
 - Add Off-screen experimental
 - Fix Docs rendering bug in Safari
 
 
-### [v0.4.1](https://github.com/picturepan2/spectre/releases/tag/v0.4.1)
+##### v0.4.1 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.1)
 
 - Add default modifier to all variables 
 - Add `address` reset which changes font-style to normal
@@ -55,12 +143,12 @@
 - Fix responsive video
 - Update the Docs
 
-### [v0.4.0](https://github.com/picturepan2/spectre/releases/tag/v0.4.0)
+##### v0.4.0 [#](https://github.com/picturepan2/spectre/releases/tag/v0.4.0)
 
 - Switch from Less to Sass
 - Add Cursor utilities
 
-### [v0.3.2](https://github.com/picturepan2/spectre/releases/tag/v0.3.2)
+##### v0.3.2 [#](https://github.com/picturepan2/spectre/releases/tag/v0.3.2)
 
 - Add label-rounded classes
 - Add Avatars presence status code
@@ -70,9 +158,9 @@
 - Update Autoprefixer rules
 - Update label mixin and code mono font family
 
-### [v0.3.1](https://github.com/picturepan2/spectre/releases/tag/v0.3.1)
+##### v0.3.1 [#](https://github.com/picturepan2/spectre/releases/tag/v0.3.1)
 
-*IMPORTANT*: The default root font-size has been changed to `20px`, please update your `rem` numbers if you're using the custom sizes. [Learn more](https://picturepan2.github.io/spectre/getting-started.html#variables-sizes).
+*IMPORTANT*: The default root font-size has been changed to `20px`, please update your `rem` numbers if you're using the custom sizes. [Learn more](https://picturepan2.github.io/spectre/getting-started/custom.html#variables-sizes).
 
 - Fix margin and padding utilities bug
 - Add grid offset
@@ -80,7 +168,7 @@
 - Move Panels and Empty states to Components from Layout
 - Fix Docs bugs and cleanup codes
 
-### [v0.2.15](https://github.com/picturepan2/spectre/releases/tag/v0.2.15)
+##### v0.2.15 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.15)
 
 - BIG Update to the Docs experience, completely rewritten and improved #240 
 - Add Text and Background colors utilities #205 #219 
@@ -92,7 +180,7 @@
 - Fix icon direction bug #218
 - Fix Dropdown menu max items/height #226 
 
-## [v0.2.14](https://github.com/picturepan2/spectre/releases/tag/v0.2.14)
+##### v0.2.14 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.14)
 
 - Add vertical divider
 - Add Form icon support
@@ -101,7 +189,7 @@
 - Add new container grid size
 - Fix link error and typo
 
-### [v0.2.13](https://github.com/picturepan2/spectre/releases/tag/v0.2.13)
+##### v0.2.13 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.13)
 
 - Add Timelines code
 - Add input readonly style
@@ -111,7 +199,7 @@
 - Fix dropdown-toggle border radius in button groups
 - Fix Calendars date item width bug under Firefox
 
-### [v0.2.12](https://github.com/picturepan2/spectre/releases/tag/v0.2.12)
+##### v0.2.12 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.12)
 
 - Add pure CSS Comparison Sliders
 - Add pure CSS content Filters
@@ -122,7 +210,7 @@
 - Update Navbar code
 - Fix typos, Modals bugs
 
-### [v0.2.11](https://github.com/picturepan2/spectre/releases/tag/v0.2.11)
+##### v0.2.11 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.11)
 
 - Add pure CSS Popovers
 - Add pure CSS Icons 
@@ -130,7 +218,7 @@
 - Add tvOS Parallax effect text layer
 - Update shadow mixin
 
-### [v0.2.10](https://github.com/picturepan2/spectre/releases/tag/v0.2.10)
+##### v0.2.10 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.10)
 
 - Add Shadows and Z-index variables
 - Add Divider text
@@ -138,13 +226,13 @@
 - Cleanup components code
 - Remove the Responsive Resizer tool (Moved to https://github.com/picturepan2/responsive-resizer)
 
-### [v0.2.9](https://github.com/picturepan2/spectre/releases/tag/v0.2.9)
+##### v0.2.9 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.9)
 
 - Add Panels layout: flexible view container layout with auto-expand content section
 - Update Navbar layout
 - Update docs and examples
 
-### [v0.2.8](https://github.com/picturepan2/spectre/releases/tag/v0.2.8)
+##### v0.2.8 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.8)
 
 - Add Carousels previous and next buttons
 - Improve disabled state for forms
@@ -153,7 +241,7 @@
 - Improve Autocomplete menu position
 - Merge Menus and Dropdowns
 
-### [v0.2.7](https://github.com/picturepan2/spectre/releases/tag/v0.2.7)
+##### v0.2.7 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.7)
 
 - Add Calendars experimental support
 - Add tabindex note to the dropdowns docs
@@ -162,14 +250,14 @@
 - Fix wrong shadow colors with form-select
 - Fix grid-480
 
-### [v0.2.6](https://github.com/picturepan2/spectre/releases/tag/v0.2.6)
+##### v0.2.6 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.6)
 
 - Add Carousels initial experimental version
 - Add Spectre.css Twitter account (@spectrecss) link
 - Improve Docs experience and navbar
 - Fix the bug of form input focus colors
 
-### [v0.2.5](https://github.com/picturepan2/spectre/releases/tag/v0.2.5)
+##### v0.2.5 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.5)
 
 - Improve color variables completely
 - Add Menu badges
@@ -178,7 +266,7 @@
 - Fix elements and components
 - Update empty state layout code
 
-### [v0.2.4](https://github.com/picturepan2/spectre/releases/tag/v0.2.4)
+##### v0.2.4 [#]    (https://github.com/picturepan2/spectre/releases/tag/v0.2.4)
 
 - ADD: Meters element experimental support
 - ADD: Progress indeterminate animation
@@ -186,7 +274,7 @@
 - CHG: Split Codes and improve docs codes
 - FIX: Steps with tooltips z-index bug
 
-### [v0.2.3](https://github.com/picturepan2/spectre/releases/tag/v0.2.3)
+##### v0.2.3 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.3)
 
 - Bars component
 - Badges for buttons
@@ -194,12 +282,17 @@
 - Sliders experimental component
 - A number of fixes as usual
 
-### [v0.2.1](https://github.com/picturepan2/spectre/releases/tag/v0.2.1)
+##### v0.2.1 [#](https://github.com/picturepan2/spectre/releases/tag/v0.2.1)
 
 I have updated the whole Spectre.css documents experience and bumped the version to v0.2.x. The new Docs can be viewed at https://picturepan2.github.io/spectre/. Here are the new things added:
 - New Docs experience with better navigations and better mobile off-canvas menu
 - New components: Tiles, Steps and Navs (part of Navigation)
-- Improvements: Action button, Autocomplete, Pagination, Tabs, Breadcrumbs, Badges, Cards,  new Progress experimental support and better focus style
+- Improvements: Action button, Autocomplete, Pagination, Tabs, Breadcrumbs, Badges, Cards, new Progress experimental support
+- Improvements: better focus style
 - Fixes
+
+##### v0.0.1 - March 2016
+
+Initial commit
 
 Thank you. ♥

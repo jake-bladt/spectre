@@ -4,6 +4,7 @@
 
 /*! Spectre.css Experimentals v#{$version} | MIT License | github.com/picturepan2/spectre */
 // Experimentals
+@import "autocomplete";
 @import "calendars";
 @import "carousels";
 @import "comparison-sliders";
@@ -14,3 +15,4 @@
 @import "progress";
 @import "sliders";
 @import "timelines";
+@import "viewer-360";
